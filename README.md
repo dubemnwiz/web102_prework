@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='kraken.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![gif](https://github.com/dubemnwiz/web102_prework/blob/main/kraken.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
